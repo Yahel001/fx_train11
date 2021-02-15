@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Lobster';
+    src: url('e:\java\fx_train\src\resoures\font\Lobster.ttf');
+}
+
+
+.text {
+    -fx-font-family: "Lobster";
+}
